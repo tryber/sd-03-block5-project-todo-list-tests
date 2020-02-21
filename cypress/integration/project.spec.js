@@ -1,4 +1,4 @@
-const TODO_PAGE_TITLE = 'Minha lista de tarefas';
+const TODO_PAGE_TITLE = 'Minha Lista de Tarefas';
 const TODO_PAGE_DESCRIPTION_SELECTOR = 'header>#funcionamento';
 const TODO_PAGE_DESCRIPTION = 'Clique duas vezes em um item para marcá-lo como completo';
 const TODO_ADD_INPUT_SELECTOR = 'input#texto-tarefa';
