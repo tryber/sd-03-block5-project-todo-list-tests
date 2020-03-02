@@ -122,7 +122,7 @@ describe('Todo list project', () => {
     checkTodoList(todos);
 
     cy.get(TODO_LIST_LINE_SELECTOR).first().click().then(($li) => {
-      expect($li).to.have.css('background-color', 'rgb(128,128,128)');
+      expect($li).to.have.css('background-color', 'rgb(128, 128, 128)');
     });
   });
 
